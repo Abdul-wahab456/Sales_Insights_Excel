@@ -25,10 +25,10 @@ The dataset consists of multiple relational tables:
 
 ## 🔧 Tools Used
 
-- **Microsoft Excel** (Pivot Tables, Pivot Charts, Data Cleaning, Dashboard Creation)
-- **Power Query** (Data Cleaning and Transformation)
-- **Power Pivot** (Data Modeling and Relationships)
-- **DAX (Data Analysis Expressions)** for custom calculations
+- **Microsoft Excel** (Pivot Tables, Pivot Charts, Data Cleaning, Dashboard Creation).
+- **Power Query** (Data Cleaning and Transformation).
+- **Power Pivot** (Data Modeling and Relationships).
+- **DAX (Data Analysis Expressions)** for custom calculations.
 
 ## 📂 Repository Structure
 
